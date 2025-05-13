@@ -1,0 +1,7 @@
+jwt:
+  secret: TaqlmGv1iEDMRiFp/pHuID1+T84IABfuA0xXh4GhiUI=
+  expiration: 2592000
+  max-token: 3
+spring:
+  application:
+    name: common-service
