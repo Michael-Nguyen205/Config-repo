@@ -32,6 +32,6 @@ security:
     I7ikrZ7RE8acbEL0ek7WA0isxlEZW2srQMZyiVZ8FKakEv+hETcxh1fefS1BqIDH
     LuYlWqYPmMWOK9dDx4ciw9y4eg==
     -----END PRIVATE KEY-----
-spring:
-  application:
-    name: common-service
+# spring:
+#   application:
+#     name: common-service
